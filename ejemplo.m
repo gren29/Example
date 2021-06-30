@@ -23,3 +23,5 @@ a = logsig(n);
 plot(n,a)
 
 prubea rama
+
+seguimos modificando la rama de raul
